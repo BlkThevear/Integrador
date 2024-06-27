@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jOMM9ZS781c=",
+  "success": true,
+  "projectFilePath": "D:\\CORDILLERA\\Cuarto_Semestre\\Proyecto\\Delivery-main\\Delivery-main\\Delivery.iOS\\Delivery.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\sharpnado.shadows\\1.2.0\\sharpnado.shadows.1.2.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
